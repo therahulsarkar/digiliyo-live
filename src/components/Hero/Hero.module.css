@@ -75,6 +75,20 @@ font-weight: 600;
             right: 5px;
             bottom: 5rem;
         }
+
+        .heroSection > div >p{
+            font-size: 0.8rem;
+        }
+
+        .line{
+            height: 1px;
+            width: 45px;
+            background-color: black;
+            margin-top: 7.2px;
+            margin-right: -10px;
+        }
+
+      
         
 }
 
